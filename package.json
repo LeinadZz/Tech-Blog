@@ -1,0 +1,20 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "CMS style Tech Blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeinadZz/Tech-Blog.git"
+  },
+  "author": "Daniel Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeinadZz/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/LeinadZz/Tech-Blog#readme"
+}
